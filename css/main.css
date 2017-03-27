@@ -166,11 +166,11 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 	font-size: 2.2em;
-	color: #fff;
+	color: #000;
 	line-height: 60px;
 }
 #header .navbar-toggle, #header .nav {
-	margin-top: 22px; 
+	margin-top: 22px;
 }
 #header .fixed-top .navbar-header a{
 	line-height: 30px;
@@ -322,7 +322,7 @@ img{
 	font-family: "Pacifico", Sans-serif;
 	font-size: 2.2em;
 	color: white;
-	line-height: 60px; 
+	line-height: 60px;
 }
 #header .fixed-top{
 	background: #2A3039;
@@ -363,13 +363,16 @@ img{
     margin: 230px 20px 0px 20px;
     padding: 12px 22px;
     width: 108px;
-   
+
     -webkit-transition: color .2s;
     -moz-transition: color .2s;
     -ms-transition: color .2s;
     -0-transition: color .2s;
     transition: color .2s;
-    
+
+}
+#slider {
+  background-color: white;
 }
 #slider .carousel-control:hover,
 #slider .corousel-control:focus{
@@ -417,7 +420,7 @@ img{
 
 /* start about page  */
 #about .container-full{
-	background: #f2f2f2;
+	background: #a;
 }
 #about .about_content{
 	margin-top: 40px;
@@ -443,7 +446,7 @@ img{
     font-size: 24px;
     padding: 12px 32px;
     margin-top: 22px;
-} 
+}
 .btn.btn-red{
 	background-color: #ff4b5a;
 	border:none;
@@ -721,7 +724,7 @@ img{
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
-	overflow: hidden;	
+	overflow: hidden;
 }
 #testimonial .clint img{
 	margin-left: 0px;
@@ -750,7 +753,7 @@ img{
 }
 #clients .sub_content{
 	margin: 0;
-} 
+}
 #clients .dividerHeading{
 	margin-bottom: 110px;
 }
@@ -841,7 +844,7 @@ img{
 /* start Mobile description */
 #why .container-full{
 	background: #f2f2f2;
-	
+
 }
 #why .modern, .phone{
 	margin-top: 24px;
@@ -858,7 +861,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-style: normal;
 	margin-bottom: 56px;
-}	
+}
 #why .modern p{
 	color: #4c5662;
 	font-size: 26px;
@@ -878,7 +881,7 @@ img{
 #why .list_item ul{
 	margin: 0;
 	padding: 0;
-	
+
 }
 #why .list_item ul li{
 	list-style: none;
@@ -954,7 +957,7 @@ img{
 
 /* start footer-top */
 #footer-top .container-full{
-	background: #343c46;
+	background: #000000;
 	min-width: 50px;
 	padding-bottom: 30px;
 }
