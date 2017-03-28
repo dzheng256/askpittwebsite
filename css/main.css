@@ -181,7 +181,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	font-size: 16px;
-	color: #ffffff;
+	color: #B7A269;
 	padding: 5px 12px;
 	margin-right: 12px;
 	border-radius: 15px;
@@ -192,11 +192,11 @@ img{
 	transition: background-color .2s;
 }
 #header .navbar-nav  li.active a{
-	background: #ff4b5a;
+	background: #1A2857;
 	border-radius: 15px;
 }
 #header .navbar-nav a:hover{
-	background: #ff4b5a;
+	background: #1A2857;
 }
 #header .navbar-header i{
 	font-weight: bold;
@@ -325,7 +325,7 @@ img{
 	line-height: 60px;
 }
 #header .fixed-top{
-	background: #2A3039;
+	background: #ffffff;
 	width: 100%;
 	height: 70px;
 }
@@ -432,7 +432,7 @@ img{
     font-size: 36px;
 }
 #about .web_content h4{
-	color: #ff4b5a;
+	color: #1A2857;
 	font-size: 26px;
 	font-family: "Roboto" sans-serif;
 }
@@ -442,13 +442,13 @@ img{
 	line-height: 28px;
 }
 #about .web_content a{
-	color: #ffffff;
+	color: #B8A369;
     font-size: 24px;
     padding: 12px 32px;
     margin-top: 22px;
 }
 .btn.btn-red{
-	background-color: #ff4b5a;
+	background-color: #1A2857;
 	border:none;
 	color: #ffffff;
 	border-bottom: 2px solid #e23d4b;
@@ -989,7 +989,7 @@ img{
 
 /* start footer */
 #footer .container-full{
-	background: #2a3039;
+	background: #1A2857;
 	min-width: 50%;
 	padding-bottom: 14px;
 }
