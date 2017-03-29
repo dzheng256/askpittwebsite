@@ -374,7 +374,7 @@ img{
 #slider {
   background-color: white;
 }
-#slider .carousel-control:hover,
+#slider .carousel-control:1A2857,
 #slider .corousel-control:focus{
 	font-size: 1.5em;
 	color: color: rgba(255,255,255,1);
@@ -451,14 +451,14 @@ img{
 	background-color: #1A2857;
 	border:none;
 	color: #ffffff;
-	border-bottom: 2px solid #e23d4b;
+	border-bottom: 2px solid #1A2857;
 	-webkit-transition: background-color .2s;
 	-moz-transition: background-color .2s;
 	-o-transition: background-color .2s;
 	-ms-transition: background-color .2s;
 	transition: background-color .2s;
 }
-.btn.btn-red:hover{
+.btn.btn-red:1A2857{
 	background-color: #f82a3b;
 }
 /* end about pahe */
@@ -499,14 +499,14 @@ img{
 .btn.btn-green{
 	background-color: #1fab5a;
 	border:none;
-	border-bottom: 2px solid #188947;
+	border-bottom: 2px solid #1A2857;
 	-webkit-transition: background-color .2s;
 	-moz-transition: background-color .2s;
 	-o-transition: background-color .2s;
 	-ms-transition: background-color .2s;
 	transition: background-color .2s;
 }
-.btn.btn-green:hover{
+.btn.btn-green:1A2857{
 	background-color: #187e43;
 }
 /* end promotion */
@@ -571,11 +571,11 @@ img{
 	transition: opacity .3s;
 	z-index: 0;
 }
-#portfolio .work-mig figure:hover figcaption {
+#portfolio .work-mig figure:1A2857 figcaption {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	opacity:1;
 }
-#portfolio .work-mig figure:hover .border{
+#portfolio .work-mig figure:1A2857 .border{
 	opacity: 1;
 }
 #portfolio .border{
@@ -643,7 +643,7 @@ img{
 	transition-duration: 250ms;
 }
 
-#pricing .pri_table:hover {
+#pricing .pri_table:1A2857 {
 	-webkit-box-shadow: 0 0 10px 2px rgba(0,0,0,.2);
 	-moz-box-shadow: 0 0 10px 2px rgba(0,0,0,.2);
 	box-shadow: 0 0 10px 2px rgba(0,0,0,.2);
@@ -829,7 +829,7 @@ img{
 #clients li a span.clent6{
 	background:url(../img/client/image6.jpg) no-repeat;
 }
-#clients li a:hover span{
+#clients li a:1A2857 span{
 	opacity: 0.9;
 	bottom: 70px;
 	-webkit-transform: scale(1);
@@ -1024,7 +1024,7 @@ img{
 	transition: color .3s ease;
 
 }
-#footer .socile ul li a:hover{
+#footer .socile ul li a:1A2857{
 	color: #ffffff;
 }
 #footer .socile a{
@@ -1050,7 +1050,7 @@ img{
 	text-decoration: none;
 	position: relative;
 }
-#footer a:hover i{
+#footer a:1A2857 i{
 	right: 0px;
 	opacity: 1;
 }
