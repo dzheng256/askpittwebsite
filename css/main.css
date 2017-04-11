@@ -21,6 +21,11 @@ textarea {
 html {
     font-size: 1em;
     line-height: 1.4;
+
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 /*
