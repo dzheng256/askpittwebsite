@@ -396,13 +396,13 @@ img{
 }
 
 #slider .content_slide h2{
-	color: #ffffff;
+	color: #000000;
 	font-size: 45px;
 	font-family: Arial, sans-serif;
 	vertical-align: middle;
 }
 #slider .content_slide p{
-	color: #fff;
+	color: #000000;
 	font-size: 24px;
 	font-family: Arial, sans-serif;
 	line-height: 48px;
